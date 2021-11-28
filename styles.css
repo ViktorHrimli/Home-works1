@@ -1,4 +1,5 @@
 .body {
   background-color: aliceblue;
   color-adjust: #0000;
+  flex-direction: column;
 }
